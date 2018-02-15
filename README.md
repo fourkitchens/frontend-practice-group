@@ -1,6 +1,8 @@
 # frontend-practice-group
 Frontend practice group. Keep it 💯
 
+[Upcoming Meetings](https://docs.google.com/spreadsheets/d/1zaGmrRk-RUPIx6qBoUI7G4zFXzVIuX9uw35vbgC3bkg/edit#gid=0)
+
 ## Notes
 - We have a [Frontend Team](https://github.com/orgs/fourkitchens/teams/frontend) here on Github. Ask and you'll be added to it.
 - [2018 Meeting notes](https://docs.google.com/document/d/1_8m2NaMW784B5wPSDhaRjR9DI9xBqEGBAHJerpipk90/edit?usp=sharing)
